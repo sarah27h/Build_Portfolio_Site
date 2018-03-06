@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+/* animal card */
+.animal-card {
+	width: 300px;
+    margin: 0 auto;
+    padding: 10px 10px;
+    border: 1px solid #eee;
+	border-radius: 10px;
+    box-shadow: 5px 5px #efefef;
+    color: #333;
+}
+
+
+/* card header */
+.animal-card h3 {
+	margin-top: 12px;
+	color: #000;
+}
+
+
+/* card image */
+.animal-card .animal-image {
+	margin-bottom: 12px;
+}
+
+
+/* card info */
+.card-info {
+	padding: 0 12px;
+    border: 1px dashed #a9a9a9;
+}
+
+.animal-fact {
+	font-style: italic;
+}
+
+.card-info ul {
+	padding-left: 0;
+	list-style: none;
+}
+
+.list-item {
+	font-weight: bold;
+}
