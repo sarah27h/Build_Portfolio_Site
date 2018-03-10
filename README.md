@@ -1,2 +1,2 @@
-# build_portfolio_site
-Building a portfolio website udacity
+# animal_trading_cards
+Animal Trading Cards
